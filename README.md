@@ -1,4 +1,4 @@
-Project to controle a mechanical arm with an EEG device
+Project to control a mechanical arm with an EEG device
 
 The code was used with a device from the brand ENOBIO and retrieves data through 
 the stream created by NIC, the software given with EEG. This was made thanks to pylsl
