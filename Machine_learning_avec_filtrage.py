@@ -3,7 +3,7 @@
 """
 Created on Thu Mar  7 17:44:19 2019
 
-@author: ahmed 
+@author: Ahmed 
 
 Two class (that only differ by the pre filtering applied to raw data) that we used as our machine learning engine
 They can accept different classifying methods ('lda', 'knn', 'svm') and feature forms ('carte' or 'fft')
